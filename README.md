@@ -109,10 +109,10 @@ Ether / ARP 192.168.1.10 is-at 11:22:33:44:55:66
 ##  Yazar
 **Enes Nergiz**  
 Bilgisayar Mühendisliği Öğrencisi | Ağ & Siber Güvenlik Meraklısı  
-📧 İletişim: [energiz2310@gmail.com]  
-🌐 GitHub: [https://github.com/enesnergiz](https://github.com/enesnergiz)
+ İletişim: [energiz2310@gmail.com]  
+ GitHub: [https://github.com/enesnergiz](https://github.com/enesnergiz)
 
 ---
 
-## 🏷️ Etiketler
+##  Etiketler
 `python` `scapy` `network-scan` `arp` `security` `linux` `educational`
